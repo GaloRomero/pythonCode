@@ -6,7 +6,7 @@
 
 * C:\Users\Usuario\jupyterNotebFiles> git init
 
-* C:\Users\Usuario\jupyterNotebFiles> git remote add origin https://github.com/GaloRomero/python
+* C:\Users\Usuario\jupyterNotebFiles> git remote add origin https://github.com/GaloRomero/pythonCode
 
 * C:\Users\Usuario\jupyterNotebFiles> git add coursePython1.ipynb
 
