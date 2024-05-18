@@ -1,6 +1,6 @@
 ### Jupyter - Github workflow example
 
-#####In a terminal:
+##### In a terminal:
 
 * C:\Users\Usuario> cd C:/Users/Usuario/jupyNotebFiles
 
